@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Andy 👋
 
-<!--
-**ohhAndy/ohhAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science @ UofT** | 💻 **Software Engineering Intern @ IBM**
 
-Here are some ideas to get you started:
+🔭 Currently contributing upstream to [ManageIQ](https://manageiq.org/) and exploring backend architecture, infrastructure, and open-source development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** 
+  JavaScript, TypeScript, Ruby, Go, Python, Java, C, SQL
+
+- **Frameworks & Libraries:** 
+  React, Next.js, Node.js, Ruby on Rails, NestJS, React Native
+
+- **Cloud & Infra:** 
+  Kubernetes, OpenShift, KubeVirt, Docker, VMware vSphere, Linux
+
+- **Databases:** 
+  PostgreSQL, MongoDB, Prisma, Supabase
+
+- **Tooling:** 
+  Git, GitHub Actions, Jest, Cypress, JUnit
+
+<br>
+
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/andy-hu-28b232184/)
